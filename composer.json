@@ -1,0 +1,18 @@
+{
+    "name": "lee/test",
+    "description": "frist test",
+    "authors": [
+        {
+            "name": "lee"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "lee\\test\\": "src/"
+        }
+    }
+}
