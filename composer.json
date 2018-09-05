@@ -1,9 +1,9 @@
 {
-    "name": "lee/test",
+    "name": "holdbacktheriver/test",
     "description": "frist test",
     "authors": [
         {
-            "name": "lee"
+            "name": "holdbacktheriver"
         }
     ],
     "license": "MIT",
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lee\\test\\": "src/"
+            "holdbacktheriver\\test\\": "src/"
         }
     }
 }
